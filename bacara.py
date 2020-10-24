@@ -1,3 +1,7 @@
+# EP - Design de Software
+# Equipe: Leonardo Alvarez
+# Data: 23/10/2020
+
 import random
 import math
 
